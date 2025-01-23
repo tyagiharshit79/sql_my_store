@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-**Project Title**: Supermarket Sales Analysis 
+**Project Title**: Supermarket Sales Analysis
+
 **Level**: Beginner  
 **Database**: `more_supermarket`
 
